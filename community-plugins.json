@@ -8146,5 +8146,12 @@
     "author": "Divam Gupta",
     "description": "Create and edit advanced spreadsheets with Obsidian. Rich formatting, formulas, cells, filtering and more!",
     "repo": "divamgupta/obsidian-spreadsheets"
-  }
+  },
+  {
+    "id": "due-task-helper"
+    "name": "Due Task Helper",
+    "author": "insert4NamesString",
+    "description": "Help with doe task, in an independent folder."
+    "repo": "insert4NamesString/obsidian-plugin-due-task"
+}
 ]
